@@ -8,7 +8,7 @@ I'm a 16-year-old living in Long Island, NY, and I'm the founder of the Bioinfor
 
 
 ### Stats
-[![glowingvoices's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=glowingvoices&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=pros-examples,vexmusic)](https://github.com/anuraghazra/github-readme-stats)
+[![glowingvoices's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=orangememoryyarn&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=pros-examples,vexmusic)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stuff 
 <p align="left">
