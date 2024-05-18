@@ -13,6 +13,6 @@ I'm a 16-year-old living in Long Island, NY, and I'm the founder of the Bioinfor
 ### Stuff 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,tauri,git,github,html,js,py,pytorch,rust,torch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,git,github,html,js,py,pytorch,rust,tauri,torch&theme=dark" />
   </a>
 </p>
