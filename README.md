@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a 16-year-old living in Long Island, NY, and I'm the founder of the Bioinformatics AI Club at the Garden City High School.
+I'm a 17-year-old living in Long Island, NY, and I'm the founder of the Bioinformatics AI Club at the Garden City High School.
 - Winner of Congressional App Challenge for NY04
 - Working on [Inkheart](https://github.com/GlowingVoices/inkheart)
 - Studying GNNs in PyTorch
