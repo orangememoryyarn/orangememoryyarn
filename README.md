@@ -4,7 +4,7 @@ I'm a 17-year-old living in Long Island, NY, and I'm the founder of the Bioinfor
 - Winner of Congressional App Challenge for NY04
 - Learning about [DeepChem](https://github.com/orangememoryyarn/DeepChem)
 - Working on [Inkheart](https://github.com/orangememoryyarn/InkHeart) (on temporary hiatus)
-- Reach me at glowingvoices@gmail.com
+- Reach me at mannatjain@gmail.com / glowingvoices@gmail.com
 
 
 ### Stats
